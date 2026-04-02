@@ -14,7 +14,7 @@
 
 
 ### Activity 2
-<img width="1920" height="1080" alt="Genre" src="https://github.com/user-attachments/assets/bb277e10-b196-469e-8cea-9706de881b36" />
+<img width="1920" height="1080" alt="Genre (1)" src="https://github.com/user-attachments/assets/a8d27f9c-585e-42ec-b8f4-20a2989e4052" />
 
 
 ## W2

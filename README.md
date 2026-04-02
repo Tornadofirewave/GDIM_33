@@ -14,7 +14,7 @@
 
 
 ### Activity 2
-[Breakdown](https://canva.link/phjn7d9c153oj1r)
+<img width="1920" height="1080" alt="Genre" src="https://github.com/user-attachments/assets/bb277e10-b196-469e-8cea-9706de881b36" />
 
 
 ## W2

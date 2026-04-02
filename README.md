@@ -14,7 +14,7 @@
 
 
 ### Activity 2
-Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
+[Breakdown](https://canva.link/phjn7d9c153oj1r)
 
 
 ## W2

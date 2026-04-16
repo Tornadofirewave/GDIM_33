@@ -18,8 +18,11 @@
 
 
 ## W2
-Write your W2 Devlog here.
+Activity 1
 
+<img width="962" height="657" alt="image" src="https://github.com/user-attachments/assets/6b95e27e-2b74-4e77-81f1-f3331a2e5a49" />
+
+Activity 2
 1. Why is it advantageous to save the event name for the explore-to-dialogue state transitions as Scene variable ("clickNpcEventName")?
 
 There is a reliable way to get the correct name to call dialogue transitions for separate NPCs within the scene.

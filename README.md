@@ -19,6 +19,7 @@
 
 ## W2
 Activity 1
+
 <img width="867" height="692" alt="image" src="https://github.com/user-attachments/assets/39b89305-b830-425f-a339-b8a1a8120363" />
 
 Continue adding additional headers below this one for future weeks and future activities.

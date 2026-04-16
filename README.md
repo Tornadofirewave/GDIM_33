@@ -18,8 +18,20 @@
 
 
 ## W2
-Activity 1
+Write your W2 Devlog here.
 
-<img width="867" height="692" alt="image" src="https://github.com/user-attachments/assets/39b89305-b830-425f-a339-b8a1a8120363" />
+1. Why is it advantageous to save the event name for the explore-to-dialogue state transitions as Scene variable ("clickNpcEventName")?
 
-Continue adding additional headers below this one for future weeks and future activities.
+There is a reliable way to get the correct name to call dialogue transitions for separate NPCs within the scene.
+
+2. Describe how using at least one Debug.Log() node helped you test your Graphs at an intermediate step.
+
+Utilizing the mouseclick debug log helped me understand that the key press for the click wasn't the source of the issue, but the issue lied within calling the dialogue panel as I debugged.
+
+3. Is the Set Cursor Lock State relevant to your Vertical Slice? Why or why not?
+
+Yes. It is a 2D platformer that's beauty comes from the environment, so it should be locked and not visible during exploration. However, within the pause menu, it should be unlocked so the player can navigate the pause menu options.
+
+4. Is the concept of a "game state" relevant to your Vertical Slice? Why or why not?
+
+It's very relevant. A clear usage of the game state is between dialogue and exploration, not too different from the current activity. The player must not be able to move during dialogue and have certain key presses mean something else to progress dialogue rather than attacking in exploration.

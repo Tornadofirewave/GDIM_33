@@ -22,7 +22,7 @@ Write your W2 Devlog here.
 
 1. Why is it advantageous to save the event name for the explore-to-dialogue state transitions as Scene variable ("clickNpcEventName")?
 
-There is a reliable way to get the correct name to call dialogue transitions for separate NPCs within the scene.
+There is a reliable way to get the correct name to call dialogue transitions for separate NPCs within the scene. Also for other graphs to call the variable, not just the state machine.
 
 2. Describe how using at least one Debug.Log() node helped you test your Graphs at an intermediate step.
 

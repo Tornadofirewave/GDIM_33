@@ -12,3 +12,5 @@ The current mechanics playable in my build are:
 - Custom-made physics system with player movement
 
 My goals for this playtest is for the playtesters to experience a smooth, easy to navigate movement system that feels like they're in full control of the player. I want the sensation of the core mechanics of being able to throw a star and moving around to feel fun and natural.
+
+Playtest Team: Bryant Dai, Audrey Hu, Lawrence Le

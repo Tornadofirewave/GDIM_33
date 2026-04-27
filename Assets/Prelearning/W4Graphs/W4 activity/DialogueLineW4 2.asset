@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: DialogueLineW4 2
   m_EditorClassIdentifier: 
   Line: Woof
-  FlairSprite: {fileID: 21300000, guid: 2ba071c40f4db462b938a8727d40fe53, type: 3}
+  FlairSprite: {fileID: 21300000, guid: 5c4c140e77eb94df998d8f44c0044b08, type: 3}
   ReplyOptions:
   - line: good boy
     nextNode: {fileID: 11400000, guid: 18f6e174869b3ed4c85573f9a2884e81, type: 2}

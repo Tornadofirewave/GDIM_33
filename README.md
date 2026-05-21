@@ -16,6 +16,7 @@ Make control scheme more intuitive, like key for progressing dialogue and activa
 
 ### Activity 2
 
+2C:
 1. The output is the camera view.
 2. The transparency/alpha of the texture gets adjusted depending on how great the value is between 0-1.
 3. Because it adjusts the alpha value of the texture.

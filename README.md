@@ -19,3 +19,5 @@ A strategy I would give a student to follow would be definitely defining what th
 ### Activity 3
 
 I added a feature that my playtester wanted from my game, which was a timer. They see that this game has a lot of speedrun potential, so being able to keep track of time is really important. In a future commit, I'd like to be able to make it so the timer pauses on every single transition point and resets at each level's new bubble.
+
+Added the timer and also made it reset after every platform for easy time tracking,
